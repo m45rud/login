@@ -4,6 +4,6 @@
         'cost' => 5
     ];
 
-    echo password_hash("admin", PASSWORD_DEFAULT, $options);
+    echo password_hash("masrud.com", PASSWORD_DEFAULT, $options);
 
 ?>
