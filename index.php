@@ -60,7 +60,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Login dengan password_hash dan password_verify</title>
+        <title>Login dengan password_hash dan password_verify - MasRud.com</title>
         <style type="text/css">
             body {
                 font-family: Arial, serif;
